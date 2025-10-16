@@ -1,6 +1,3 @@
-# Lecciones Aprendidas
+Este sistema de evaluación docente ofrece una solución práctica y eficiente para gestionar la retroalimentación en entornos educativos. Permite a los estudiantes evaluar a sus profesores de forma estructurada mediante calificaciones y comentarios, mientras que los docentes pueden consultar sus resultados de manera centralizada.
 
-Reflexiones y mejoras para futuros proyectos.
-
-- Lección 1
-- Lección 2
+La herramienta facilita la comunicación transparente entre estudiantes e instituciones, automatiza procesos manuales y genera datos valiosos para el desarrollo profesional docente y la mejora continua de la calidad educativa. Su diseño simple asegura fácil adopción y permite futuras expansiones según las necesidades institucionales.
