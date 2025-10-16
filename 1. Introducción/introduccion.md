@@ -1,12 +1,12 @@
 # Introducción
 
-Breve introducción al proyecto.
+Objetivo del proyecto
 
-Objetivos:
-- Objetivo 1
-- Objetivo 2
+Construir una herramienta sencilla para gestionar evaluaciones de docentes.
+Debe permitir que:
 
-Alcance:
-- Alcance 1
-- Alcance 2
-t
+Un docente pueda registrarse e iniciar sesión.
+
+Los estudiantes puedan evaluar al docente (por ejemplo, con una nota del 1 al 5 y un comentario).
+
+Se pueda consultar un resumen de resultados por docente.
